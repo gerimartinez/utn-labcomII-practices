@@ -1,2 +1,1 @@
-Laboratorio de computacion 2
-Alumna: Geraldine Martinez
+Laboratorio de computacion 2, alumna: Geraldine Martinez
