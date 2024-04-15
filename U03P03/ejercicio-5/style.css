@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    gap: 2px;
+    height: 100vh;
+    padding: 12px 24px;
+    font-family: sans-serif
+}
+
+.side {
+    background-color: rgb(133,215,239);
+    height: 100vh;
+    flex: 1
+    
+}
+
+.con-container {
+    background-color:  rgb(193,219,210);;
+    height: 100vh;
+    flex: 4
+
+}
