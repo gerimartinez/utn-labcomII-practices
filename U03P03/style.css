@@ -1,0 +1,23 @@
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 0;
+
+}
+.nav-item {
+    width: 100%;
+    flex-grow: 1;
+    background-color: rgba(123,198,199,0.8);
+    margin: 1px;
+}
+
+a {
+    font-family: sans-serif;
+    text-decoration: none;
+    color: black;
+    width: 100%;
+    display: block;
+    padding: 8px;
+}
